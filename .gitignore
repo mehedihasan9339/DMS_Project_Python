@@ -1,0 +1,23 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# IDE and Editor directories
+.idea/
+.vscode/
+
+# Tesseract OCR log files (optional, if you have any)
+tesseract.log
+
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
